@@ -6,7 +6,7 @@ def get_env(get_binance_info=False):
     """get dot env variables from .env file
 
     Returns:
-        string: ZB_API_KEY
+        tuple: a set of environment variables
     """
 
     load_dotenv()  # take environment variables from .env.
@@ -33,9 +33,14 @@ def precising_amount(amount, digit):
     """
     Convert decimal point accuracy
     if using round, np.round, the small decimals would still remain
-    :param amount:
-    :param digit:
-    :return:
+
+    Args:
+        amount (float): the amount
+        digit (int): number of digit for this amount
+
+    Returns:
+        str: the rounded string for this amount
     """
+
     w = "{" + f":.{digit}f" + "}"
     return w.format(amount)

@@ -7,7 +7,7 @@
 2. 把两个文件的配置换成自己的。
 3. 在 `withdraw_from_binance.py` 脚本里面，输入自己的input【提现金额，币的名称，目标链】。运行脚本 `python withdraw_from_binance.py`。
 
-具体攻略可以看：
+具体攻略可以看：[here](https://mirror.xyz/june023.eth/95W6kVB2bYmfsxusay13Jah_HNP6nBFZc5PnhKCGSRg)
 
 其他相关链接：
 - 如何批量撸空头 - Arbitrum Odyssey： [here](https://mirror.xyz/june023.eth/RK8m0Vwy7lZZYa6vyylms4eazr1WnzOE8uBgHBcpoC8)
