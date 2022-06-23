@@ -15,6 +15,5 @@
 
 
 # 关于我
-自我介绍：https://mirror.xyz/june023.eth/-f0ojvJJZcza07y2wlWcEVTI5iA6QEXX5pJDbRMaI34
-Mirror链接： https://mirror.xyz/june023.eth
-Twitter链接：https://twitter.com/june023_eth
+- Mirror链接： https://mirror.xyz/june023.eth
+- Twitter链接：https://twitter.com/june023_eth
